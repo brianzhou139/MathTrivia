@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="lightGrey">#f1f0f0</color>
+
+    <drawable name="white">#ffffff</drawable>
+
+    <color name="myTimer_color">#892C99</color>
+    <color name="myFlashTextColor">#AC3B17</color>
+
+    <color name="buttonCorrectAnswer">#71BE16</color>
+    <color name="buttonWrongAnswer">#B1340D</color>
+
+    <color name="defaultButtonColor">#757A7A</color>
+    <color name="restButtonColor">#111111</color>
+    <color name="myPurple">#9F36B1</color>
+    <color name="loveRed">#D64040</color>
+    <color name="mybright_color">#51ADD6</color>
+
+</resources>
