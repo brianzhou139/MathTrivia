@@ -1,5 +1,5 @@
 # MathTrivia
-maths app for sharpening multiplication skills
+maths game for sharpening multiplication skills
 
 ## Source Code Review
 * Requirements: [Android Studio](https://developer.android.com/studio/) or [Xcode](https://developer.apple.com/xcode/)<br />
